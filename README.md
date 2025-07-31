@@ -52,8 +52,7 @@ To add a repository to LC-DL you can either tap the "Add Repo to LC-DL" button i
 
 ## Available Apps:
 This is a list of every app currently available in this repository. If you have LC-DL installed you can tap the "Install" button to install it.
->[!Note]
-Every app available on this repo has been tested and they are confirmed to work perfectly with LiveContainer, any necessary settings are already enabled.
+https://lc-dl.github.io/apps
 
 ### Special Thanks
 I'd like to give a special thanks to [@suprstarrd](https://github.com/suprstarrd), she messaged me about LC-DL and gave me some very helpful info about how LC stored app info which helped me make v0.3 the best version of LC-DL yet. 😎 They are also working on a template to allow you to create your own repositories!
